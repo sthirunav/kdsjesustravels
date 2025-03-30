@@ -5,18 +5,18 @@
 		xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
 			http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 		<url>
-			<loc>http://www.kdsjesustravels.com</loc>
+			<loc>https://www.kdsjesustravels.com</loc>
 		</url>
 		<url>
-			<loc>http://www.kdsjesustravels.com/aboutus.html</loc>
+			<loc>https://www.kdsjesustravels.com/aboutus.html</loc>
 		</url>
 		<url>
-			<loc>http://www.kdsjesustravels.com/services.html</loc>
+			<loc>https://www.kdsjesustravels.com/services.html</loc>
 		</url>
 		<url>
-			<loc>http://www.kdsjesustravels.com/gallery.html</loc>
+			<loc>https://www.kdsjesustravels.com/gallery.html</loc>
 		</url>
 		<url>
-			<loc>http://www.kdsjesustravels.com/contactus.html</loc>
+			<loc>https://www.kdsjesustravels.com/contactus.html</loc>
 		</url>
 	</urlset>
